@@ -5,3 +5,4 @@ ordenador trae consigo una serie de caracteristicas que lo hace programable y ma
 al uso del consumidor.
 Estos usan unos puertos GPIO que se usan para programar como arduino, tambien traen HDMI , jack 45
 RCA video y una ranura SD.
+![índice](https://user-images.githubusercontent.com/72190320/141442304-717e1708-25b6-43f8-a2fd-82b3d1e5cea8.jpeg)
