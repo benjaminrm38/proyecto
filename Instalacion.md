@@ -16,5 +16,7 @@ Ya podríamos introducir la tarjeta en la Raspberry
 
 En cambio Linux a diferencia de los demas se descarga a traves de comandos
 > sudo apt-get install -y pv curl python-pip unzip
+> 
 > sudo pip install awscli
+> 
 > uname -s
