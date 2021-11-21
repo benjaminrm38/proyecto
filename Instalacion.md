@@ -36,3 +36,9 @@ Y ya tenemos el sistema operativo que queramos
 
 ## VARIOS SO EN UNA RASPBERRY PI
 **Para lograr esto sólo tendrías que recurrir a NOOBS o BerryBoot**
+Extraer el archivo y copia todo en una tarjeta SD **FORMATEADA**
+Ahora reinicia la RASPEBRRY
+Ve al menu y selecciona el o los sistemas que quieras instalar
+![450_1000](https://user-images.githubusercontent.com/72190320/142776416-387e1adf-985c-419f-8de3-ec45ebbb28d6.jpg)
+Una vez hecho esto podras arrancar con cualquier sistema operativo
+
