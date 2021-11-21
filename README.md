@@ -9,6 +9,7 @@
 
 ## Referencias:
 [Raspberry](https://www.raspberrypi.org/)
+[Instalaccion](https://eloutput.com/productos/domotica/instalar-so-raspberry-pi-herramientas/)
 
 ## Licencia:
 
