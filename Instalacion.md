@@ -1,2 +1,2 @@
 # Instalaccion:
-Esta instalacion sera enfocada en ## DEBIAN 
+Esta instalacion sera enfocada en la **maxima optimizacion de la raspberry**
