@@ -9,3 +9,7 @@
 
 ## Referencias:
 [Raspberry](https://www.raspberrypi.org/)
+
+## Licencia:
+
+![Captura de pantalla de 2021-11-21 19-47-09](https://user-images.githubusercontent.com/72190320/142775010-dbc9f475-14ec-4170-9675-46689c882827.png)
