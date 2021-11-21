@@ -3,7 +3,9 @@
 ## Indice: 
 1. [README](https://github.com/benjaminrm38/proyecto/blob/main/README.md)
 2. [Introduccion](https://github.com/benjaminrm38/proyecto/blob/main/Introduccion.md)
-3. Instalaccion
-4. Conclusiones
+3. ¿Que es una raspberry?
+4. Instalaccion
+5. Conclusiones
+
 ## Referencias:
 [Raspberry](https://www.raspberrypi.org/)
