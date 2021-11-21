@@ -4,7 +4,7 @@
 1. [README](https://github.com/benjaminrm38/proyecto/blob/main/README.md)
 2. [Introduccion](https://github.com/benjaminrm38/proyecto/blob/main/Introduccion.md)
 3. [¿Que es una raspberry?](https://github.com/benjaminrm38/proyecto/blob/PROYECTO/raspberry.md)
-4. [Instalaccion](https://github.com/benjaminrm38/proyecto/blob/PROYECTO/instalacion.md)
+4. [Instalaccion](https://github.com/benjaminrm38/proyecto/blob/PROYECTO/Instalacion.md)
 5. Uso
 
 ## Referencias:
