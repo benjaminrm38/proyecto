@@ -17,16 +17,22 @@ Ya podríamos introducir la tarjeta en la Raspberry
 En cambio Linux a diferencia de los demas se descarga a traves de comandos
 Instalamos sus dependencias
 > sudo apt-get install -y pv curl python-pip unzip
-> 
+
 > sudo pip install awscli
-> 
+
 > uname -s
+
  Si el comando nos devuelve _Linux_...
  Ahora lo que devuelva se tiene que subsituir por PEPE en estos comandos
+ 
 > wget https://raw.githubusercontent.com/hypriot/flash/master/PEPE/flash
 chmod +x flash
+
 ahora lo movemos
+
 > sudo mv flash /usr/local/bin/flash
+
 Y ya tenemos el sistema operativo que queramos
+
 ## VARIOS SO EN UNA RASPBERRY PI
 **Para lograr esto sólo tendrías que recurrir a NOOBS o BerryBoot**
