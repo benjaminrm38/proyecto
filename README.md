@@ -5,7 +5,7 @@
 2. [Introduccion](https://github.com/benjaminrm38/proyecto/blob/main/Introduccion.md)
 3. ¿Que es una raspberry?
 4. Instalaccion
-5. Conclusiones
+5. Uso
 
 ## Referencias:
 [Raspberry](https://www.raspberrypi.org/)
